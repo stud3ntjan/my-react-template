@@ -1,4 +1,4 @@
-import styles from "./ImpressumPage.module.css";
+import styles from "./ImpressumPage.modules.css";
 
 function ImpressumPage() {
   return <div className={styles.mainContainer}> This is my Impressum</div>;
