@@ -1,4 +1,4 @@
-import styles from "./StandardBtn.module.css";
+import styles from "./StandardBtn.modules.css";
 
 function StandardBtn({ onClick, text, style }) {
   return (
